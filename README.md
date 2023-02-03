@@ -10,6 +10,7 @@ Team Silver - Spring 2022
   - TonyGrif - Tony Griffin - grif007@odu.edu
   - jdlavinder - Joel Lavinder - jlavi001@odu.edu
   - slahj001 - Sam Lahjiri - slahj001@odu.edu
+  - rlmackley3 - Robert Mackley - rmack001@odu.edu
 
 # MacOS commands to install django
 python3 -m venv <name>              //create virual enviroment
